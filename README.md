@@ -12,7 +12,7 @@
 - 🚀 Focused on **machine learning + aerospace** — building and training ML models to integrate with the aerospace domain
 - 💻 Comfortable across the stack: simulation & data pipelines in **Python**, full-stack web apps in **TypeScript / JavaScript**
 - 🔭 Currently exploring **DevOps, CI/CD and telemetry systems**
-- 🌱 Always learning — relearning Python fundamentals the right way to build a strong ML foundation
+- 🌱 Always learning — strengthening Python fundamentals to build a solid ML foundation
 
 ## 🛠️ Tech Stack
 
@@ -29,21 +29,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Aerospace](https://img.shields.io/badge/Aerospace-0B3D91?style=for-the-badge&logo=airbus&logoColor=white)
-
-## 🚀 Featured Projects
-
-| Project | What it is | Tech |
-| --- | --- | --- |
-| 🛰️ [**AEROSPACE GROUND SYSTEM**](https://github.com/suryaprakashgarige/AEROSPACE-GROUND-SYSTEM) | Ground-system dashboard for aerospace operations | TypeScript |
-| ✈️ [**wing-aerodynamic-analysis**](https://github.com/suryaprakashgarige/wing-aerodynamic-analysis) | Aerodynamic analysis of aircraft wings | Python |
-| 🛸 [**drone-simulation-platform**](https://github.com/suryaprakashgarige/drone-simulation-platform) | Drone simulation & monitoring platform with automated CI/CD deployment — DevOps meets aeronautical engineering | Python, CI/CD |
-| 📡 [**satellite-telemetry-pipeline**](https://github.com/suryaprakashgarige/satellite-telemetry-pipeline) | Pipeline for processing satellite telemetry data | Python |
-| 🎯 [**Aircraft-Drag-Prediction**](https://github.com/suryaprakashgarige/Aircraft-Drag-Prediction) | Predicting drag on aircraft | JavaScript |
-| 🚀 [**TrajectorySim**](https://github.com/suryaprakashgarige/TrajectorySim) | Flight trajectory simulation | JavaScript |
-| 🪁 [**Wing-Analyzer**](https://github.com/suryaprakashgarige/Wing-Analyzer) | Wing geometry & performance analysis | Python |
-| 🎨 [**InkSpireAI**](https://github.com/suryaprakashgarige/InkSpireAI) | AI web app that turns written stories into comic panels — generate, edit panels, tweak dialogue and visual styles | TypeScript, AI |
-| 🌱 [**Python-Relearning**](https://github.com/suryaprakashgarige/Python-Relearning) | Relearning Python fundamentals with a goal: build and train ML models for the aerospace domain | Python, ML |
-| 🌐 [**Portfolio Website**](https://github.com/suryaprakashgarige/Surya-Prakash-Garige) | My personal portfolio site | TypeScript |
 
 ## 📊 GitHub Stats
 
